@@ -1,0 +1,29 @@
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.app {
+    display: flex;
+}
+
+.title {
+    width:1165px;
+    padding:10px;
+    color:white;
+    padding-top:50px;
+    background-color: #33BEBE;
+}
+
+.screenshot {
+    padding-right:50px;
+    max-width: 460px;
+}
+
+.description {
+    max-width: 705px;
+    color: #7C8B88;
+}
